@@ -1,4 +1,6 @@
 # AfficheurJeedomV2
+Credit Jeeduino : https://github.com/revlysJ/jeedouino
+
 Permet l'affichage sur une roue de LED type WS2812B d'une action envoyée à partir du plugin Jeeduino. Via un ESP32
 
 Code ESP32 généré avec le générateur Jeeduino puis modifié pour intégrer les actions d'allumage de LED avec la librairie fastled.<br/>
